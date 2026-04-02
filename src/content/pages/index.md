@@ -1,5 +1,5 @@
 ---
-title: Koerswijziging
+title: Starten met beleggen
 ---
 
 Hieronder volgen een aantal stappen om heel simpel te beginnen met beleggen. Dit

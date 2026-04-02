@@ -28,7 +28,6 @@ It will be available at `/<filename>`. The file named `index.md` maps to `/`.
 ## Deploying to GitHub Pages
 
 1. Update `site` in `astro.config.mjs` to your GitHub Pages URL:
-   - User/org site: `https://luctielen.github.io`
-   - Project site: `https://luctielen.github.io/<repo>` — also add `base: '/<repo>'`
+   - Site: `https://luctielen.github.io/koerswijziging` with `base: '/koerswijziging'`
 2. In your GitHub repo: **Settings → Pages → Source → GitHub Actions**
 3. Push to `main`. The workflow in `.github/workflows/deploy.yml` builds and deploys automatically.
