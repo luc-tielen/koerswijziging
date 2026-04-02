@@ -1,0 +1,13 @@
+{
+  "name": "start2invest",
+  "type": "module",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview"
+  },
+  "dependencies": {
+    "astro": "^5.0.0"
+  },
+  "packageManager": "pnpm@9.0.0"
+}

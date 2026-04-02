@@ -1,0 +1,12 @@
+---
+import { getEntry } from 'astro:content';
+import Layout from '../layouts/Layout.astro';
+
+const page = await getEntry('pages', 'index');
+const { Content } = await page.render();
+---
+
+<Layout title={page.data.title}>
+  <h1>{page.data.title}</h1>
+  <Content />
+</Layout>
