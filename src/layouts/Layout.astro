@@ -1,4 +1,6 @@
 ---
+import '../styles/global.css';
+
 interface Props {
   title: string;
 }
@@ -12,29 +14,10 @@ const { title } = Astro.props;
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>{title}</title>
-    <style>
-      body {
-        font-family: Georgia, serif;
-        line-height: 1.7;
-        color: #1a1a1a;
-        max-width: 720px;
-        margin: 0 auto;
-        padding: 2rem 1.5rem 4rem;
-      }
-
-      h1 { font-size: 2rem; margin-bottom: 0.25rem; }
-      h2 { font-size: 1.4rem; margin-top: 2.5rem; }
-      h3 { font-size: 1.1rem; margin-top: 2rem; }
-
-      a { color: #1a6faf; }
-
-      ol, ul { padding-left: 1.5rem; }
-      li { margin: 0.4rem 0; }
-
-      code { background: #f4f4f4; padding: 0.1em 0.3em; border-radius: 3px; font-size: 0.9em; }
-    </style>
   </head>
-  <body>
-    <slot />
+  <body class="max-w-2xl mx-auto px-6 py-12">
+    <article class="prose prose-slate lg:prose-lg">
+      <slot />
+    </article>
   </body>
 </html>
