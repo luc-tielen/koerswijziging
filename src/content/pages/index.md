@@ -35,7 +35,7 @@ Na het invullen van al je gegevens zal Saxo jouw gegevens moeten verwerken. Dit
 kan even duren maar verloopt over het algemeen vrij snel. Bij mij was dit zelfs
 binnen het kwartier.
 
-## Stap 2: Stel auto-invest in op de Saxo website
+## Stap 2: Configureer auto-invest
 
 Zodra je de bevestigings-email ontvangen hebt, kan je verder met de volgende
 stappen om automatisch elke maand je beleggingen uit te voeren:
@@ -52,8 +52,8 @@ Je zal nu een aantal opties te zien krijgen om het automatisch beleggingsplan in
 te stellen. Kies hierbij het volgende:
 
 - Welke ETFs (aandelenfondsen):
-  - iShares Core MSCI World UCITS ETF (IWDA)
-  - iShares Core MSCI EM IMI UCITS ETF (EMIM)
+  - iShares Core MSCI World UCITS ETF (**IWDA**)
+  - iShares Core MSCI EM IMI UCITS ETF (**EMIM**)
   - Verdeling: 88% IWDA, 12% EMIM voor een goed gediversifieerde
     aandelenportefeuille. Of je kan gewoon volledig 100% IWDA gaan. Up to you.
     Beide aanpakken werken goed.
@@ -78,10 +78,10 @@ maand erna van dit resterende bedrag gebruik te maken:
 2. Klik dan op "Beleggingsinstellingen".
 3. Kies er voor om "alle beschikbare cash beleggen" (op actief instellen).
 
-## Stap 3: Stel een doorlopende opdracht in bij je bank
+## Stap 3: Stel een doorlopende opdracht in
 
-Nu gaan we de doorlopende stortingsopdracht inregelen. Dit zal verschillen voor
-elke bank, maar de grote lijnen zijn hetzelfde:
+Nu gaan we de doorlopende stortingsopdracht via jouw bank inregelen. Dit zal
+verschillen voor elke bank, maar de grote lijnen zijn hetzelfde:
 
 1. Noteer het IBAN nummer van je auto-invest rekening ergens. Deze kan je vinden
    door op de Saxo website te klikken op je auto-invest rekening te klikken, en
