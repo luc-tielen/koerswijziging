@@ -146,7 +146,7 @@ In deze guide staan alleen ETFs die gunstig zijn voor mensen uit België.
 Nee, dit hoeft niet. Als het goed is, heeft je Saxo-rekening een IBAN rekening
 die begint met "BE". Deze wordt automatisch doorgegeven.
 
-### Waarom raadt je enkel aandelenfondsen aan en geen obligaties?
+### Waarom raad je enkel aandelenfondsen aan en geen obligaties?
 
 Tot nu toe heb ik gemerkt dat bij de meeste mensen het beginnen het moeilijkste
 is. Daarom heb ik het hier even simpel gehouden. Als je meer wilt bijleren over
